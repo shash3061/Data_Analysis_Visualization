@@ -1,2 +1,2 @@
 # Data Analysis Visualization
-Some Exploratory Data Analysis (EDA) techniques
+Some Exploratory Data Analysis (EDA) techniques.
